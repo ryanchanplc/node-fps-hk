@@ -1,0 +1,33 @@
+{
+  "name": "node-fps-hk",
+  "version": "0.1.0",
+  "description": "A tool to generate the qrcode content string used by Fast Payment System in Hong Kong",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanchanplc/node-fps-hk.git"
+  },
+  "files": [
+    "/src",
+    "./index.js"
+  ],
+  "author": "Ryan Chan",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "rewire": "^4.0.1",
+    "should": "^13.2.3"
+  },
+  "keywords": [
+    "fps",
+    "hk",
+    "payment",
+    "fast payment system"
+  ]
+}
