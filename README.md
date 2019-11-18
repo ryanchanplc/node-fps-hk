@@ -1,6 +1,6 @@
 
 ## node-hk-fps
-A Nodejs module that help to generate QR code content string of the Hong Kong Faster Payment System.
+A Nodejs module that help to generate QR code content string of the Hong Kong Faster Payment System. Please refer the [blog](https://medium.com/@ryanchanplc/understanding-the-qr-code-used-in-hong-kong-faster-payment-system-6cc1671405d2)
 
 ## Installation
 
