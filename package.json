@@ -1,6 +1,6 @@
 {
   "name": "node-fps-hk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool to generate the qrcode content string used by Faster Payment System in Hong Kong",
   "main": "index.js",
   "directories": {
